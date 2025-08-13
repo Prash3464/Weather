@@ -10,7 +10,7 @@
  .contaner {
    display: flex;
    height: 100vh;
-   background: url(background.jpg);
+   background: #1d232d;
    flex-direction: column;
    align-items: center;
 
@@ -293,5 +293,6 @@ color: #fff;
    to {
      transform: rotate(360deg);
    }
+
 
  }
